@@ -7,7 +7,7 @@ export default function App() {
     return (
       <View style={styles.container}>
         <iframe
-          src="https://master.d1dgalbu64ycgu.amplifyapp.com/"
+          src="https://superai.mynger.com/"
           style={styles.iframe}
           title="SuperAI"
         />
@@ -17,7 +17,7 @@ export default function App() {
 
   return (
     <WebView
-      source={{ uri: "https://master.d1dgalbu64ycgu.amplifyapp.com/" }}
+      source={{ uri: "https://superai.mynger.com/" }}
       style={styles.container}
     />
   );
